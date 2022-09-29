@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> The Aliens Homepage </title>
+
+<meta charset="UTF-8">
+
+<meta name="author" content="Lauron, Andrei Joseph R.">
+
+<meta name="keywords" content="HTML">
+
+<meta name="revised" content="09-29-2022">
+  <style>
+    .Header {
+          border: 5px solid black;
+          background-color: #00ff00;
+          text-align: left;
+          padding: 15px;
+        }
+    .Padded {
+          padding: 20px;
+          text-align: left;
+    }
+    
+    .ben10{
+        float: left;
+    }
+  </style>
+</head>
+  
+
+<!-- many layouts here still subject to change -->
+  
+  
+<body>
+  <div class="Header"> 
+    <h1 style="color: black"> <img class=“ben10” src="images\ben10logo.png" height="60px" width="60px"> Aliens of the Omnitrix</h1>
+    <h3 style="color: black"> The website, where we show you a worded description of your favorite heroes! From the show where a child saves the world with a watch and its aliens. The very thing we're discussing here. </h3>
+  </div>
+  
+  <a href="https://compsci-project.andrei-josephjo.repl.co"> 
+    <div style="width: 49.20%; border: 5px solid black; background-color: #00ff00; text-align: center; float:left">
+    <p> Home</p>
+  </div>
+  </a>
+  
+  <a href="index.html"> <div style="width: 49.20%; border: 5px solid black; background-color: gray; text-align: center; float:left">
+    <p> The Aliens</p>
+  </div>
+  </a>
+  
+  <div> <br> </div>
+  
+  <br>
+  
+  <div class="Padded">
+    <br>
+    <div> <img src="images\gray_square.png" height="80px" width="80px" float="left"> </div>
+    <h2 style="float: left"> Ben "Ben 10" Tennyson </h2>
+    <p style="clear: left"> The boy who found the omnitrix housing ten Alien forms. <!-- long stuff here with all types of stuff like tables and bullet points --> </p>
+  </div>
+  
+</body>
+</html>
+
