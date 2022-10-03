@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.Header {
+          border: 5px solid black;
+          background-color: #00ff00;
+          text-align: left;
+          padding: 15px;
+        }
+
+.Padded {
+          padding: 20px;
+          text-align: left;
+    }
+    
+.ben10{
+        float: left;
+    }
+
+.Selected{
+  width: 20%;
+  border: 5px solid black;
+  background-color: #00ff00;
+  text-align: center;
+  float:left;
+}
+
+.UnSelected{
+  width: 20%;
+  border: 5px solid black;
+  background-color: gray;
+  text-align: center;
+  float:left;
+}
+
+
+/* added this css */
+h1 img {
+  margin-top: -10px;
+}
+
+h1 span {
+  vertical-align: top;
+}
