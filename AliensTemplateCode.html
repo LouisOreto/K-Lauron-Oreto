@@ -10,42 +10,36 @@
 <meta name="keywords" content="HTML">
 
 <meta name="revised" content="09-24-2022">
-  <style>
-    .Header {
-          border: 5px solid black;
-          background-color: #00ff00;
-          text-align: left;
-          padding: 15px;
-        }
-    .Padded {
-          padding: 20px;
-          text-align: left;
-    }
-    
-    .ben10{
-        float: left;
-    }
-  </style>
+
+<link href="css\style.css" rel="stylesheet" type="text/css" />
 </head>
-  
 
 <!-- many layouts here still subject to change -->
   
-  
 <body>
   <div class="Header"> 
-    <h1 style="color: black"> <img class=“ben10” src="images\ben10logo.png" height="60px" width="60px"> Aliens of the Omnitrix</h1>
+    <!-- revert back to img inside h1 -->
+    <h1>
+        <img class=“ben10” src="images\ben10logo.png" height="60px" width="60px">
+        <span>Aliens of the Omnitrix </span>
+    </h1>
+      
     <h3 style="color: black"> Unique Title for alien </h3>
   </div>
   
-  <a href="https://compsci-project.andrei-josephjo.repl.co"> 
-    <div style="width: 49.20%; border: 5px solid black; background-color: gray; text-align: center; float:left">
+  <a href="designated Home page"> 
+    <div class="UnSelected">
     <p> Home</p>
   </div>
   </a>
   
-  <a href="index.html"> <div style="width: 49.20%; border: 5px solid black; background-color: #00ff00; text-align: center; float:left">
-    <p> The Aliens</p>
+  <a href="AlienTemplateCode.html"> <div class="Selected">
+    <p> Heatblast</p>
+  </div>
+  </a>
+
+  <a href="designated Wildmutt page"> <div class="UnSelected">
+    <p> Wildmutt</p>
   </div>
   </a>
   
@@ -57,7 +51,7 @@
     <br>
     <div> <img src="images\gray_square.png" height="80px" width="80px" float="left"> </div>
     <h2 style="float: left"> Name of Alien </h2>
-    <p style="clear: left"> description of alien <!-- long stuff here with all types of stuff like tables and bullet points --> </p>
+    <p style="clear: left"> description of alien </p>
   </div>
   
 </body>
