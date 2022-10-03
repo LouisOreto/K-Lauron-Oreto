@@ -44,7 +44,7 @@
   </div>
   </a>
   
-  <a href="index.html"> <div style="width: 49.20%; border: 5px solid black; background-color: gray; text-align: center; float:left">
+  <a href="page1.html"> <div style="width: 49.20%; border: 5px solid black; background-color: gray; text-align: center; float:left">
     <p> The Aliens</p>
   </div>
   </a>
@@ -56,10 +56,29 @@
   <div class="Padded">
     <br>
     <div> <img src="images\gray_square.png" height="80px" width="80px" float="left"> </div>
-    <h2 style="float: left"> Ben "Ben 10" Tennyson </h2>
-    <p style="clear: left"> The boy who found the omnitrix housing ten Alien forms. <!-- long stuff here with all types of stuff like tables and bullet points --> </p>
+    <h2 style="float: left"> Benjamin Kirby "Ben 10" Tennyson </h2>
+    <p style="clear: left"> Benjamin Kirby "Ben" Tennyson franchise. He was an ordinary ten-year-old boy until he found the Omnitrix, a powerful watch-like device that allowed him to turn into ten different aliens. Though initially immature and clumsy, Ben grew to be a true hero. </p>
   </div>
-  
+ <div class="Padded"> 
+<h2 tyle="float: left">Appearance
+</h2>
+  <p style="clear: left"> Ben's physical appearance has changed throughout the series from a ten-year-old to a sixteen-year-old. However, he retains some recurring characteristics. He has unkept brown hair, green eyes, pale skin, and he's quite skinny for his age, though he shows a lot of muscle definition due to being athletic.
+    </p>
+  <h2>Regular Appearances</h2>
+   <p>
+   In the Omniverse flashbacks in which he was 5 years old, 
+ Ben wore green overalls with a white shirt underneath it. White numbers saying "5 1/2" were on a black square in front of his overalls. </p>
+<p>
+In the original series and Omniverse flashbacks, Ben's usual clothes consisted of a black-striped, white shirt with short sleeves, military green cargo pants with side pockets with a black belt hidden under his shirt, and black and white sneakers with black stripes. Ben wore the prototype Omnitrix on his left wrist.</p>
+<p>
+In Alien Force and Ultimate Alien, Ben wore a black shirt, blue jeans and a green jacket with white stripes on his left sleeve and the number 10 on the right, white socks, and black and white Converse-style shoes. Ben wore the prototype Recalibrated Omnitrix in Alien Force and the Ultimatrix in Ultimate Alien on his left wrist.</p>
+<p>
+In Ultimate Alien, he wore a standard Plumber suit during a few of his off-world excursions.</p>
+<p>
+In Omniverse, Ben wears a black shirt that has a green stripe in the middle with a white 10 and green stripes on the sides of his shirt. He wears brown cargo pants with pockets at the knees with a brown belt hidden under the shirt and green and white shoes. He later gains a white hooded jacket with green stripes on both arms and a green number 10 on the right side for some time. He wears the Omnitrix on his left wrist.</p>
+<p>
+In Omniverse, while riding the Tenn-Speed, he wears a white helmet with the number 10 on it, a green visor, a short-sleeved black T-shirt, long white pants and a belt with the number 10 on it.
+   </p>
+  </div>
 </body>
 </html>
-
