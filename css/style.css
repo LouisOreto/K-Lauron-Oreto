@@ -7,8 +7,9 @@ html, body {
 
 div.Sticky {
   position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   top: 0;
+  z-index: 1;
 }
 .Header {
           border: 3px solid black;
@@ -16,11 +17,16 @@ div.Sticky {
           text-align: left;
           padding: 15px;
           font-family: Raleway;
+          width: 100%;
+          margin-right: 830px;
         }
 
 .Padded {
           padding: 20px;
           text-align: left;
+          position: relative;
+          top: 175px;
+          z-index: 0;
     }
     
 .ben10{
