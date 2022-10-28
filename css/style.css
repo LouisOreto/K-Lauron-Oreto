@@ -2,13 +2,18 @@
 
 html, body {
   height: 100%;
-  width: 99.5%;
+  width: 99%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Raleway;
 }
 
 div.Fixed {
   position: fixed;
   top: 0;
-  width: 99.5%;
+  left: 0;
+  width: 99%;
   z-index: 1;
 }
 .Header {
@@ -17,8 +22,7 @@ div.Fixed {
           text-align: left;
           padding: 15px;
           font-family: Raleway;
-          width: 98%;
-          margin: auto;
+          width: 99%;
           height: 150px;
         }
 
@@ -70,6 +74,17 @@ p {
   font-family: Roboto;
 }
 
+#container{
+  background-color: #7ed957; 
+  text-align: left; 
+  padding: 15px; 
+  width: 98%; 
+  height: 360px; 
+  border: 2px solid black; 
+  overflow: auto;
+  margin-top: 20px;
+}
+
 td {
   border: 1px solid black;
   height: 40px;
@@ -77,4 +92,17 @@ td {
 
 table {
   font-family: Raleway;
+  height: 300px;
+}
+
+#credits {
+  font-family: Raleway;
+  clear: left;
+  background-color: gray;
+  color: white;
+  width: 98.5%;
+  padding: 15px;
+  position: absolute;
+  left: 0px;
+  border-top: 20px solid white;
 }
