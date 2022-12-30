@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> The Aliens Homepage </title>
+
+<meta charset="UTF-8">
+
+<meta name="author" content="lauron, Andrei Joseph R.">
+
+<meta name="keywords" content="HTML">
+
+<meta name="revised" content="12-14-2022">
+
+<link href="css\style_xlr8.css" rel="stylesheet" type="text/css" />
+
+<link href="images\omnitrixie.ico" rel="icon" type="image/ico" />
+</head>
+  <style>
+    .PSHSLOGO {
+	background: url('images/Icons.png') no-repeat -74px -56px;
+	width: 28px;
+	height: 28px;
+  position: relative;
+  bottom: 45px;
+  right: 940px;
+  float: right;
+}
+
+.OMNITRIX {
+	background: url('images/Icons.png') no-repeat -125px -56px;
+	width: 30px;
+	height: 30px;
+  position: relative;
+  bottom: 10px;
+  right: 200px;
+  float: right;
+}
+
+ .EMAILS {
+	background: url('images/Icons.png') no-repeat -224px -59px;
+	width: 27px;
+	height: 21px;
+  position: relative;
+  bottom: 40px;
+  right: 920px;
+  float: right;
+}
+  </style>
+<body>
+  <div class="Fixed">
+  <div class="Header">
+    <h1>
+        <img class=“ben10” src="images\ben10logo.png" height="60px" width="60px">
+        <span>Aliens of the Omnitrix </span>
+    </h1>
+      
+    <h2 style="color: black"> The Alien Volcanic Fanatic </h2>
+  </div>
+  
+  <div class="UnSelected">
+    <a href="index.html">
+    <p> Home</p>
+      </a>
+  </div>
+  
+  <div class="UnSelected">
+    <a href="Heatblast.html">
+    <p> Heatblast</p>
+      </a>
+  </div>
+
+  <div class="UnSelected">
+    <a href="Wildmutt.html">
+    <p> Wildmutt</p>
+      </a>
+  </div>
+ 
+  <div class="UnSelected">
+    <a href="Diamondhead.html">
+    <p> DiamondHead</p>
+      </a>
+  </div>
+
+  <div class="Selected">
+    <a href="XLR8.html">
+    <p> XLR-8</p>
+      </a>
+  </div>
+
+  <div class="UnSelected">
+    <a href="GrayMatter.html">
+    <p> Gray Matter</p>
+      </a>
+  </div>
+  </div> 
+  
+  <div> <br> </div>
+  
+  <br>
+  
+  <div class="Padded">
+    <br>
+    <div style="float: left;"> <img src="images\xlr8\XLR8_closeup.png" height="100px" width="100px" style="float:left; margin: 10px; border: 2px solid black">
+    <h1 style="float: left;"> <span style="vertical-align:center; font-family: Raleway; color: white;"> XLR8 </span> </h1>
+    <p style="clear: left; width: 1000px; color: white;"> One of the aliens Ben possesses. XLR8 looks like a semi-armored velociraptor. XLR8 as a Kineceleran have black orbs on his feet, a black tail with 5 blue stripes, and big claws on his 3 fingers that can only open and claws. And part of his Kineceleran biology he also has a cone-like head and a protective visor that slides over his face. When the visor is lifted, one can see his blue face, green eyes, black lips, and stripes running under and in between his eyes; the rest of his head's features are unknown. He also wears a black bodysuit with a white strap in the middle with the omnitrix embedded in his chest. </p>
+    <br>
+      <p style="width: 1000px; color: white"> XLR8 first appeared in And Then There Were 10, where he got revenge on J.T. and Cash before helping Max and Gwen pack their belongings into the Rust Bucket.</p>
+    </div>
+    <div style="float: left; margin: 25px;"> <img src="images\xlr8\XLR8_OS.png" height="300px"> </div>
+
+    <div id="container">
+
+    <img src="images\heatblast\heatblastblasting.png" length="250px" width="450px" style="float:left; margin:50px">
+
+      <table style="border: 1px solid black; float: left; width: 800px">
+        <caption> Powers & Abilities </caption>
+        <tr> 
+        <td> Type Of Ability</td>
+        <td> Description </td>
+        </tr>
+
+        <tr>
+          <td> Speed</td>
+          <td> Utilizing the orbs in his feet XLR8 can reach speeds as high as 500 mile per hour within two seconds from rest. In fact he is so fast that it is as if time had stop for him. He can even make tornadoes just by running round in circles.</td>
+        </tr>
+        <tr>
+          <td> Control</td>
+          <td> Unlike other speed based aliens XLR8 has more control over his than other species'.</td>
+        </tr>
+        <tr>
+          <td> Dexterity</td>
+          <td> He capable of thinking, acting and reacting at superhuman speed. His sharp reflexes allow him to dodge attacks with little to no effort, and change direction very easily while running.</td>
+        </tr>
+        <tr>
+          <td> Enhanced Physical Attributes</td>
+          <td> Although not as strong as other aliens XLR8 is stronger than the average human being, capable of carrying multiple people at once. He can also jump higher than humans</td>
+        </tr>
+        <tr>
+          <td> Natural Visor</td>
+          <td> XLR8 has a natural visor that can slide and retract over his face to shield him from the wind and as protection. </td>
+        </tr>
+        <tr>
+          <td> Claws</td>
+          <td> XLR8 have claws that can cut through many materials with ease.</td>
+        </tr>
+        <tr>
+          <td> Fast Recovery</td>
+          <td> XLR8 can recover from injuries faster than anyone else.</td>
+        </tr>
+        <tr>
+          <td> Tail</td>
+          <td> XLR8's tail can be used like a third hand.</td>
+        </tr>
+        <tr>
+          <td> Claws</td>
+          <td> XLR8 have claws that can cut through many materials with ease.</td>
+        </tr>
+      </table>
+    </div>
+    <div style="margin-top: 20px;">
+    <div style="width: 50%; float: left;">
+      <h2 style="color: white;"> Appearances throughout main renditions</h2>
+      
+
+      <p style="color: white;"> 
+      In Ultimate Alien and Heroes United, we see a more musculat and a bit darker XLR8.
+      </p>
+
+      <p style="color: white;"> 
+      In Omniverse, A taller XLR8 is presented to us with the white of his shirt turned green which now reaches up this neck. The number of stripes in his tail is also halved. His balls are also bigger and his visor is darker.
+      </p>
+      
+    </div>
+
+    <div style="float: left; padding: 50px; background-color: #7ed957; border: 2px solid black; border-bottom: 0px solid white">
+    <div style="float: left; padding-right: 50px;"> <img src="images\xlr8\XLR8_UA.png" title="XLR8 in Ultimate Alien"> </div>
+    <div style="float: left;"> <img src="images\heatblast\HeatblastOV.png" title="Heatblast in Omniverse"> </div>
+    </div>
+    </div>
+
+    <div id="container">
+
+      <table style="border: 1px solid black; float: left; width: 800px">
+        <caption> Weaknesses </caption>
+        <tr> 
+        <td> Type Of Weakness</td>
+        <td> Description </td>
+        </tr>
+
+        <tr>
+          <td> Magnets and Charged Pulses</td>
+          <td> They throw him off-course and cause him to lose his balance and footing and even making him spin out control.  </td>
+        </tr>
+        <tr>
+          <td> Slippy and Sticky Surfaces</td>
+          <td> Although XLR8 can run on many surfaces, running on ice isn't one of them as he lost balance and slip and slide around. He was also incapacitated by an enemy leaving sticky goo on the surface getting him stuck. </td>
+        </tr>
+      </table>
+      <img src="images\heatblast\wetblast.png" length="250px" width="450px" style="float:left; margin:50px">
+    </div>
+<section>
+      <h2>XLR8 Transformation</h2>
+      <iframe src="https://www.youtube.com/embed/_ghMnRe2K_s?autoplay=1&mute=1" ></iframe>
+    </section>
+     <div id="credits">
+      <h4> Talk with us!</h4>
+      <h5> Andrei Lauron and Louis Oreto ----- Students </h5>
+      <span><h5> Philippine Science High School ---- 9-Potassium</h5>
+      <div class="PSHSLOGO"> </div> </span>
+      <span><h5> emails: ajrlauron@pshs.edu.ph, lnaoreto@pshs.edu.ph</h5> 
+      <div class="EMAILS"> </div> </span>
+      <h5> All information and topics used for this site belong to the Ben 10 Planet Fandom Wiki! We thank their dedicated work and appreciation for the show. Visit them here --<a href="https://ben10.fandom.com/wiki/Heatblast_(Classic)"> click here</a></h5>
+      <h5> Ben 10 Planet. (N.D.). Ben 10. Fandom.com. Retrieved from: <a href="https://ben10.fandom.com/wiki/Ben_10"> https://ben10.fandom.com/wiki/Ben_10"</a></h5>
+      <h4> Computer Science 3 Alternative Assessment </h4>
+    </div>
+  </div>
+  <div class="translucent"> </div>
+
+  <img src="images\background3ben.jpg" height="100%" width="100%" style="position: fixed; z-index: 0; top: 0; left: 0;">
+  
+</body>
+</html>
