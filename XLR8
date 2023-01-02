@@ -9,7 +9,7 @@
 
 <meta name="keywords" content="HTML">
 
-<meta name="revised" content="01-02-2023">
+<meta name="revised" content="01-02-2022">
 
 <link href="css\style_xlr8.css" rel="stylesheet" type="text/css" />
 
@@ -83,7 +83,7 @@
 
   <div class="Selected">
     <a href="XLR8.html">
-    <p> XLR-8</p>
+    <p> XLR8</p>
       </a>
   </div>
 
@@ -101,7 +101,7 @@
   <div class="Padded">
     <br>
     <div style="float: left;"> <img src="images\xlr8\XLR8_closeup.png" height="100px" width="100px" style="float:left; margin: 10px; border: 2px solid black">
-    <h1 style="float: left;"> <span style="vertical-align:center; font-family: Raleway; color: white;"> XLR-8 </span> </h1>
+    <h1 style="float: left;"> <span style="vertical-align:center; font-family: Raleway; color: white;"> XLR8 </span> </h1>
     <p style="clear: left; width: 1000px; color: white;"> One of the aliens Ben possesses. XLR8 looks like a semi-armored velociraptor. XLR8 as a Kineceleran have black orbs on his feet, a black tail with 5 blue stripes, and big claws on his 3 fingers that can only open and claws. And part of his Kineceleran biology he also has a cone-like head and a protective visor that slides over his face. When the visor is lifted, one can see his blue face, green eyes, black lips, and stripes running under and in between his eyes; the rest of his head's features are unknown. He also wears a black bodysuit with a white strap in the middle with the omnitrix embedded in his chest. </p>
     <br>
       <p style="width: 1000px; color: white"> XLR8 first appeared in And Then There Were 10, where he got revenge on J.T. and Cash before helping Max and Gwen pack their belongings into the Rust Bucket.</p>
@@ -110,7 +110,7 @@
 
     <div id="container">
 
-    <img src="images\heatblast\heatblastblasting.png" length="250px" width="450px" style="float:left; margin:50px">
+    <img src="images\xlr8\XLR8_WaterRun.webp" length="250px" width="450px" style="float:left; margin:50px">
 
       <table style="border: 1px solid black; float: left; width: 800px">
         <caption> Powers & Abilities </caption>
@@ -163,7 +163,7 @@
       
 
       <p style="color: white;"> 
-      In Ultimate Alien and Heroes United, we see a more musculat and a bit darker XLR8.
+      In Ultimate Alien and Heroes United, we see a more muscular and a bit darker XLR8.
       </p>
 
       <p style="color: white;"> 
@@ -172,9 +172,10 @@
       
     </div>
 
-    <div style="float: left; padding: 50px; background-color: #7ed957; border: 2px solid black; border-bottom: 0px solid white">
-    <div style="float: left; padding-right: 50px;"> <img src="images\xlr8\XLR8_UA.png" title="XLR8 in Ultimate Alien"> </div>
-    <div style="float: left;"> <img src="images\heatblast\HeatblastOV.png" title="Heatblast in Omniverse"> </div>
+    <div style="float: left; padding: 50px; background-color: #0c515a; border: 2px solid black;">
+    <div style="float: left; padding-right: 50px;"> <img src="images\xlr8\XLR8_OV.png" title="XLR8 in Omniverse" height="100px"> </div>
+    <div style="float: left; padding-right: 50px;"> <img src="images\xlr8\XLR8_UA.png" title="XLR8 in Ultimate Alien" height="100px"> 
+    </div>
     </div>
     </div>
 
@@ -196,7 +197,7 @@
           <td> Although XLR8 can run on many surfaces, running on ice isn't one of them as he lost balance and slip and slide around. He was also incapacitated by an enemy leaving sticky goo on the surface getting him stuck. </td>
         </tr>
       </table>
-      <img src="images\heatblast\wetblast.png" length="250px" width="450px" style="float:left; margin:50px">
+      <img src="images\xlr8\XLR8_Stuck.png" length="250px" width="450px" style="float:left; margin:50px">
     </div>
 <section>
       <h2>XLR8 Transformation</h2>
@@ -209,9 +210,12 @@
       <div class="PSHSLOGO"> </div> </span>
       <span><h5> emails: ajrlauron@pshs.edu.ph, lnaoreto@pshs.edu.ph</h5> 
       <div class="EMAILS"> </div> </span>
-      <h5> All information and topics used for this site belong to the Ben 10 Planet Fandom Wiki! We thank their dedicated work and appreciation for the show. Visit them here --<a href="https://ben10.fandom.com/wiki/Heatblast_(Classic)"> click here</a></h5>
-      <h5> Ben 10 Planet. (N.D.). Ben 10. Fandom.com. Retrieved from: <a href="https://ben10.fandom.com/wiki/Ben_10"> https://ben10.fandom.com/wiki/Ben_10"</a></h5>
-      <h4> Computer Science 3 Alternative Assessment </h4>
+      <h5> All information and topics used for this site belong to the Ben 10 Planet Fandom Wiki! We thank their
+        dedicated work and appreciation for the show. Visit them here --> <a
+          href="https://ben10.fandom.com/wiki/XLR8_(Classic)"> <div class="OMNITRIX"> </div></a></h5> </span>
+      <h5> Ben 10 Planet. (N.D.). Ben 10. Fandom.com. Retrieved from: <a href="https://ben10.fandom.com/wiki/Ben_10">
+          https://ben10.fandom.com/wiki/Ben_10"</a></h5>
+      <h4 style="float: left;"> Computer Science 3 Alternative Assessment </h4>
     </div>
   </div>
   <div class="translucent"> </div>
